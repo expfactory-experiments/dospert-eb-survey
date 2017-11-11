@@ -1,10 +1,10 @@
 {
-    "name": "Dospert_rt: Domain specific risk taking Survey",
+    "name": "Dospert: Domain Specific Risk Taking Survey",
     "template":"survey",
-    "exp_id": "dospert-rt-survey",
-    "url": "https://github.com/expfactory-experiments/dospert-rt-survey",
+    "exp_id": "dospert-eb-survey",
+    "url": "https://github.com/expfactory-experiments/dospert-rb-survey",
     "instructions": "Please complete the survey questions.",
-    "description": "This is the dospert reaction timse task",
+    "description": "This is one of the dospert reaction time tasks",
     "cognitive_atlas_task_id": "trm_5696abecf2569",
     "contributors": [
                      "Zeynep Enkavi",
